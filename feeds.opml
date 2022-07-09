@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Planet Serenity</title>
+  </head>
+  <body>
+    <outline text="SerenityDevs " title="Serenity Devs">
+      <outline type="rss"
+	       text="awesomekling.github.io"
+	       title="awesomekling.github.io"
+	       htmlUrl="https://awesomekling.github.io/feed.xml"
+  	       xmlUrl="https://awesomekling.github.io/feed.xml"
+      />
+
+      <outline type="rss"
+	       text="bjg.io"
+	       title="bjg.io"
+	       htmlUrl="https://bjg.io/feed.xml"
+	       xmlUrl="https://bjg.io/feed.xml"
+      />
+      <outline type="rss"
+	       text="adkaster.github.io"
+	       title="adkaster.github.io"
+	       htmlUrl="https://adkaster.github.io/feed.xml"
+  	       xmlUrl="https://adkaster.github.io/feed.xml"
+      />
+      <outline type="rss"
+	       text="awesomekling.github.io"
+	       title="awesomekling.github.io"
+	       htmlUrl="https://awesomekling.github.io/feed.xml"
+  	       xmlUrl="https://awesomekling.github.io/feed.xml"
+      />
+    </outline>
+  </body>
+</opml>
